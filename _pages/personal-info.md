@@ -1,5 +1,9 @@
 ---
 layout: archive
-title: "My Page Title"
+title: "Personal Info"
 permalink: /my-page/
 ---
+
+School: Virginia Tech
+Email: nick@vansid.org
+GitHub: ArgonautGit

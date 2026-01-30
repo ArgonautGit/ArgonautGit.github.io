@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Personal Info"
-permalink: /my-page/
+permalink: /personal-info/
 ---
 
 School: Virginia Tech

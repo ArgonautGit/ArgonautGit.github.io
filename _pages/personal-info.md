@@ -4,6 +4,6 @@ title: "Personal Info"
 permalink: /personal-info/
 ---
 
-School: Virginia Tech
-Email: nick@vansid.org
-GitHub: ArgonautGit
+School: Virginia Tech \
+Email: nick@vansid.org \
+GitHub: ArgonautGit 

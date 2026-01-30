@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<h1 div align="center">
-Nicholas Sara 
-</h1>
 [Personal Info](/personal-info/)
 
 

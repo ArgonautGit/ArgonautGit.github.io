@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 <h1 div align="center">
-Nicholas Sara
+Nicholas Sara 
 </h1>
+[Personal Info](/personal-info/)
+
 
 # About Me
 I am a student at Virginia Tech studying ECE. I find electrical engineering and its applications fascinating. I like to study topics such as:
